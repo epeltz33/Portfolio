@@ -1,19 +1,19 @@
-# [Your Name]'s Portfolio
+# My Portfolio
 
 ## Introduction
 
-Hello! I'm [Your Name]. This is a repository of the projects I've worked on and the skills I've acquired over my career as a [Your Profession]. Feel free to browse and don't hesitate to reach out if you have any questions!
+Hello! I'm Eric. This is a repository of the projects I've worked on and the skills I've acquired building them.
 
 ## Skills
 
-- Skill 1
-- Skill 2
-- Skill 3
+- React.js
+- Tailwind CSS
+- MongoDB
+- Python
 - ...
 
-## Projects
+## Contact
 
-- [Project 1](# Path: projects/project1.md)
-- [Project 2](# Path: projects/project2.md)
-- [Project 3](# Path: projects/project3.md)
+- Email: <erpeltz@gmail.com>
+- LinkedIn: <https://www.linkedin.com/in/ericrpeltz/>
 - ...
