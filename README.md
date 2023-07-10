@@ -10,7 +10,6 @@ Hello! I'm Eric. This is a repository of the projects I've worked on and the ski
 - Tailwind CSS
 - MongoDB
 - Python
-- ...
 
 ## Contact
 
