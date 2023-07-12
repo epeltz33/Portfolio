@@ -17,20 +17,20 @@ const Work = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/* Grid Item */}
           <div className="bg-[#1e293b] rounded-lg p-4 flex flex-col justify-between">
-            <div className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
+            <div className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div h-full bg-[#1e293b]">
               {/* Hover Effects */}
-              <div className="opacity-0 group-hover:opacity-100">
-                <span className="text-2xl font-bold text-white tracking-wider">
-                  React JS Application
+              <div className="opacity-50 group-hover:opacity-100 transition-opacity duration-200 h-full flex flex-col justify-center items-center">
+                <span className="text-xl font-bold text-white tracking-wider text-center">
+                  Command Line Hangman
                 </span>
                 <div className="pt-8 text-center">
-                  <a href="/">
-                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <a href="https://portfolio-epeltz33.vercel.app/">
+                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-[#1e293b] text-white font-bold text-lg border border-white">
                       Demo
                     </button>
                   </a>
-                  <a href="/">
-                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <a href="https://github.com/epeltz33/Hangman.git">
+                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-[#1e293b] text-white font-bold text-lg border border-white">
                       Code
                     </button>
                   </a>
